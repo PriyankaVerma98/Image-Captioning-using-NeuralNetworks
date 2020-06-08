@@ -31,6 +31,7 @@ photographs.
 - Sequence Processor : this is a word embedding layer for handling the text input, followed by a Long Short-Term Memory (LSTM) recurrent neural network layer
 - 
 
+<img style="float: right;" src="https://user-images.githubusercontent.com/39693183/84002037-6183e600-a985-11ea-8b18-2803d30b365d.png">
 
   ![Model Summary](https://user-images.githubusercontent.com/39693183/84002037-6183e600-a985-11ea-8b18-2803d30b365d.png)
 
