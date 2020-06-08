@@ -8,7 +8,7 @@
  - Keras (2.2 or higher) is installed with the TensorFlow
  - Libraries such as scikit-learn, Pandas, NumPy, and Matplotlib 
  - GPU (accessible through Google Collaboratories). Following libraries are imported to map GPU requirements
-    ```
+    ```python
      import​ psutil 
      import​ humanize 
      import​ os
