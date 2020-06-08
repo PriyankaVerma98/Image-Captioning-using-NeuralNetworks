@@ -1,4 +1,4 @@
-# Image Captioning using Neural_networks
+# Image Captioning using Recurrent Neural Networks
 
 ### Aim : 
  - To design and implement image and video caption generation deep neural network architecture.
@@ -31,6 +31,6 @@ photographs.
 - Sequence Processor : this is a word embedding layer for handling the text input, followed by a Long Short-Term Memory (LSTM) recurrent neural network layer
 - 
 
-model summary    
+![model summary](Screen Shot 2020-06-08 at 12.37.51 PM.png "Model Summary") 
 ---
 This was my first hands on project in Neural Networks and was done as part of my Laboratory Project for course CS F366 at BITS Pilani.
