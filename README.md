@@ -32,7 +32,7 @@ photographs.
 - 
 
 
-![Model Summary](https://user-images.githubusercontent.com/39693183/84002037-6183e600-a985-11ea-8b18-2803d30b365d.png)
+    ![Model Summary](https://user-images.githubusercontent.com/39693183/84002037-6183e600-a985-11ea-8b18-2803d30b365d.png)
 
 ---
 This was my first hands on project in Neural Networks and was done as part of my Laboratory Project for course CS F366 at BITS Pilani.
