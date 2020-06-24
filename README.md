@@ -15,7 +15,9 @@
      import​ os
      import​ GPUtil ​as​ GPU
      ```
-     
+  
+**Detailed Documentation** is available in *Image and Video Captioning .pdf*
+
 ### Data
 
 **Flickr8k dataset**
