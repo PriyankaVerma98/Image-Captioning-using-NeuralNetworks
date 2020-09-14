@@ -1,7 +1,7 @@
 # Image Captioning using Recurrent Neural Networks
 
 ### Aim : 
- - To design and implement image and video caption generation deep neural network architecture.
+ - To design and implement image caption generation deep neural network architecture.
 
 ### Set Up
 
